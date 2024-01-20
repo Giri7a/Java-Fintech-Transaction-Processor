@@ -16,4 +16,4 @@
 ### 6. Adjust Sample Data (Optional):
 * If you want to test with different data, modify the sampleData list in the TestTransactionProcessor class.
 > * Note: Ensure that you have the correct Java SDK configured in your IntelliJ IDEA. If not, set up the JDK by going to "File" > "Project Structure" > "Project" > "Project SDK".
-> * This should execute the sample test and display the results in the console. Adjust the code as needed for your specific use case.
+* This should execute the sample test and display the results in the console. Adjust the code as needed for your specific use case.
